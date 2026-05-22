@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": "Login successful",
+    "data": {
+        "user": {
+            "id": "12ae56df-b4c2-4ea5-bb7e-e33b18b7b2b9",
+            "firstName": "Nkosi",
+            "lastName": "Cele",
+            "email": "admin@gmail.com",
+            "role": "admin",
+            "groupId": "5328c91e-fc40-11f0-8e00-5000e6331276",
+            "groupName": "1st Group 2026",
+            "approvalStatus": "approved",
+            "createdAt": "2026-04-29 07:22:38",
+            "updatedAt": "2026-05-21 20:15:56"
+        },
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VySWQiOiIxMmFlNTZkZi1iNGMyLTRlYTUtYmI3ZS1lMzNiMThiN2IyYjkiLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc3OTM4NzgxNiwiZXhwIjoxNzc5NDc0MjE2fQ.fdCE4ADoQsV4Md2kX3jrpxE2uXPhutDoLo10Jo3BUZQ"
+    }
+}
